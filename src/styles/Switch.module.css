@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  background-color: #eeae61;
+
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.header button {
+  margin: 1rem;
+  background: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.header h2 {
+  color: white;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.header button img {
+  height: auto%;
+  width: 65%;
+}

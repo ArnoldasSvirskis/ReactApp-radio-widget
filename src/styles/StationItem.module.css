@@ -1,0 +1,28 @@
+.stations {
+  background-color: #2f2f3b;
+  margin-bottom: 0;
+  padding-top: 15px;
+}
+
+.stations ul {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-bottom: 1px solid #a2abbd;
+  display: flex;
+  justify-content: space-between;
+
+  margin: 0;
+  font-size: 22px;
+  color: #a2abbd;
+  font-family: sans-serif;
+  list-style: none;
+}
+
+.stations li:nth-child(even) {
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.stations li {
+  margin-left: -15px;
+}

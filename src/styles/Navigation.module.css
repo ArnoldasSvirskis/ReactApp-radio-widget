@@ -1,0 +1,16 @@
+.navigation {
+  background: #2f2f3b;
+  display: flex;
+  padding-top: 10px;
+}
+
+.navigation button {
+  border: none;
+  background: #2f2f3b;
+  cursor: pointer;
+}
+
+.navigation img {
+  margin: 10px;
+  width: 50%;
+}
